@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e70909;
+    text-align: center;
+    color: #f00000;
+}
+
+h1 {
+    color: #ff9900; /* Cor do Doritos */
+    font-size: 2.5em;
+}
+
+img {
+    width: 50px; /* Tamanho fixo para as imagens */
+    height: 20px; /* Mantém a proporção da imagem */
+    margin: 20px; /* Espaçamento entre as imagens */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+
+
+
+
+
+h2 {
+    font-size: 1.9em;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 3.0em;
+    margin-top: 50px;
+}
+
+ 
